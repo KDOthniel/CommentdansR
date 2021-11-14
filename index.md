@@ -2,8 +2,6 @@
 
 CommendansR est [une page Youtube](https://www.youtube.com/channel/UCcCMO7sHb8O_TJUd34sQ_Ng) sur laquelle je te montre de p'tites choses afin de te permettre de pouvoir faire de grande chose dans le logiciel.. si tu es pret..!!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
