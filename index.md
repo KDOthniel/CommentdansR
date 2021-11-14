@@ -1,6 +1,6 @@
-## Bienvenu dans CommentdansR, un espace exlusivement dedie pour toi!
+## Bienvenu dans CommentdansR!
 
-You can use the [editor on GitHub](https://github.com/KDOthniel/CommentdansR/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+CommendansR est [une page Youtube](https://www.youtube.com/channel/UCcCMO7sHb8O_TJUd34sQ_Ng) sur laquelle je te montre de p'tites choses afin de te permettre de pouvoir faire de grande chose dans le logiciel.. si tu es pret..!!!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
