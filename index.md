@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenu dans CommentdansR, un espace exlusivement dedie pour toi!
 
 You can use the [editor on GitHub](https://github.com/KDOthniel/CommentdansR/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
