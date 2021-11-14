@@ -2,9 +2,9 @@
 
 CommendansR est [une page Youtube](https://www.youtube.com/channel/UCcCMO7sHb8O_TJUd34sQ_Ng) sur laquelle je te montre de p'tites choses afin de te permettre de pouvoir faire de grande chose dans le logiciel.. si tu es pret..!!!
 
-### Markdown
+### Le logiciel d'analyse Statistique R
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+R est un logiciel d'analyse statistique qui te permet de faire des choses super cool avec un control total sur ton travail..
 
 ```markdown
 Syntax highlighted code block
