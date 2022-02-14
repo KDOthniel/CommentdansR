@@ -7,10 +7,7 @@ CommendansR est [une page Youtube](https://www.youtube.com/channel/UCcCMO7sHb8O_
 R est un logiciel d'analyse statistique qui te permet de faire des choses super cool avec un controle total sur ton travail..
 Je te montre tout!
 
-```r
-head(mtcars)
 
-```
 
 
 ```markdown
