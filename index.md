@@ -4,7 +4,9 @@ CommendansR est [une page Youtube](https://www.youtube.com/channel/UCcCMO7sHb8O_
 
 ### Le logiciel d'analyse Statistique R
 
-R est un logiciel d'analyse statistique qui te permet de faire des choses super cool avec un control total sur ton travail..
+R est un logiciel d'analyse statistique qui te permet de faire des choses super cool avec un controle total sur ton travail..
+Je te montre tout!
+
 
 ```markdown
 Syntax highlighted code block
